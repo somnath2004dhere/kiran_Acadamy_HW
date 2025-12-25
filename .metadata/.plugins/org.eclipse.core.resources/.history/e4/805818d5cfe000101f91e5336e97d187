@@ -1,0 +1,19 @@
+package constructor;
+
+public class Person {
+
+	String name;
+	
+	public Person(String n) {
+		// TODO Auto-generated constructor stub
+		name=
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		
+		
+		Person p1=new Person("Somnath");
+	}
+}

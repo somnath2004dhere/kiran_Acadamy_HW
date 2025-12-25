@@ -1,0 +1,14 @@
+package constructor;
+
+p class Student {
+
+	int rollNo;
+	String name;
+	int marks;
+	
+	
+	Student(){
+		
+	}
+}
+

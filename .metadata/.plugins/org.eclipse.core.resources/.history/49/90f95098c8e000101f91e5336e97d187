@@ -1,0 +1,13 @@
+package constructor;
+
+public class Student {
+
+	public int Student() {
+		return 0;
+		// TODO Auto-generated constructor stub
+	}
+	public static void main(String[] args) {
+		
+		
+	}
+}

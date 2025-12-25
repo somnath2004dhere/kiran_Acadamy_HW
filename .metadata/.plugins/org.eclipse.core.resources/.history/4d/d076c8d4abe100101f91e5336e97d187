@@ -1,0 +1,28 @@
+package constructor;
+
+public class Player_Test {
+	
+//	public Player_Test(Player p) {
+//		System.out.println("Jersey No. : "+p.jersey_no);
+//		System.out.println("Name : "+p.p_name);
+//		System.out.println("Runs : "+p.runs);
+//		System.out.println("wickets : "+p.wickets);
+//		System.out.println("Team Name : "+p.team_name);
+//		
+//	}
+
+	
+	public static void main(String[] args) {
+		
+		
+		 Player p1  = new Player(45, "Rohit Sharma",      560, 2,  "Mumbai");
+          p1.display();
+              System.out.println();
+	        
+	        
+	      
+	        
+	        
+	        
+	}
+}

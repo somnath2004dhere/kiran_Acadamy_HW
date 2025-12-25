@@ -1,0 +1,58 @@
+package constructor;
+
+public class Player_Test {
+	
+//	public Player_Test(Player p) {
+//		System.out.println("Jersey No. : "+p.jersey_no);
+//		System.out.println("Name : "+p.p_name);
+//		System.out.println("Runs : "+p.runs);
+//		System.out.println("wickets : "+p.wickets);
+//		System.out.println("Team Name : "+p.team_name);
+//		
+//	}
+
+	
+	public static void main(String[] args) {
+		
+		
+		 Player p1  = new Player(45, "Rohit Sharma",      560, 2,  "Mumbai");
+          p1.display();
+              System.out.println
+	        Player p2  = new Player(63, "Suryakumar Yadav",  510, 0,  "Mumbai");
+	        p2.display();
+              System.out.println
+	        Player p3  = new Player(18, "Tilak Varma",       430, 0,  "Mumbai");
+	        p3.display();
+              System.out.println
+	        Player p4  = new Player(11, "Ishan Kishan",      480, 0,  "Mumbai");
+	        p4.display();
+              System.out.println
+	        Player p5  = new Player(77, "Hardik Pandya",     390, 14, "Mumbai");
+	        p5.display();
+              System.out.println
+	        Player p6  = new Player(33, "Jasprit Bumrah",    15,  21, "Mumbai");
+	        p6.display();
+              System.out.println
+	        Player p7  = new Player(17, "Piyush Chawla",     22,  18, "Mumbai");
+	        p7.display();
+              System.out.println
+	        Player p8  = new Player(25, "Arjun Tendulkar",   5,   6,  "Mumbai");
+	        p8.display();
+              System.out.println
+	        Player p9  = new Player(23, "Shreyas Gopal",     18,  9,  "Mumbai");
+	        p9.display();
+              System.out.println
+	        Player p10 = new Player(20, "Akash Madhwal",     4,   12, "Mumbai");
+	        p10.display();
+              System.out.println
+	        Player p11 = new Player(93, "Jofra Archer",      2,   16, "Mumbai");
+	        p11.display();
+              System.out.println
+	        
+	        
+	      
+	        
+	        
+	        
+	}
+}

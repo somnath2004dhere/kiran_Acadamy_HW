@@ -1,0 +1,10 @@
+package constructor;
+
+public class Player {
+	
+	int jersey_no;
+	String p_name;
+	int runs;
+	int wicket
+
+}

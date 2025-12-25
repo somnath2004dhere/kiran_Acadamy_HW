@@ -1,0 +1,30 @@
+package constructor;
+
+public class Student {
+
+	int rollNo;
+	String name;
+	int marks;
+	
+//	c
+	Student(Student s1){
+		
+		
+		
+		rollNo=s1.rollNo;
+		name=s1.name;
+		marks=s1.marks;
+	}
+	
+	public Student() {
+		System.out.println("this are the default constructor");
+	}
+	
+  	Student(int r,String n,int m){
+		System.out.println("parameterize");
+		rollNo=r;
+		name=n;
+		marks=m;
+	}
+}
+

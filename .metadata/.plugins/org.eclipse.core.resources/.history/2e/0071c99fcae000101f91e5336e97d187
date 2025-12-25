@@ -1,0 +1,15 @@
+package constructor;
+
+ class Student {
+
+	int rollNo;
+	String name;
+	int marks;
+	
+	
+	Student(){
+		
+	}
+}
+
+public class

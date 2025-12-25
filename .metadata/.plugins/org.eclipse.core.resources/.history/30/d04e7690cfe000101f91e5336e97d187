@@ -1,0 +1,34 @@
+package constructor;
+
+public class Student {
+
+	int rollNo;
+	String name;
+	int marks;
+	
+//	copy constructor
+	Student(Student s1){
+		
+		System.out.println("copy Constructor...");
+		
+		rollNo=s1.rollNo;
+		name=s1.name;
+		marks=s1.marks;
+	}
+	
+	Student(){
+		
+	}
+	
+	public Student() {
+		System.out.println("this are the default constructor");
+	}
+	
+  	Student(int r,String n,int m){
+		System.out.println("parameterize");
+		rollNo=r;
+		name=n;
+		marks=m;
+	}
+}
+
