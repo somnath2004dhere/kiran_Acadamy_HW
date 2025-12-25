@@ -1,0 +1,29 @@
+package constructor;
+
+public class Player {
+	
+	int jersey_no;
+	String p_name;
+	int runs;
+	int wickets;
+	String team_name;
+	
+	public Player(int j,String n,int r,int w,String tn) {
+		
+		jersey_no=j;
+		p_name=n;
+		runs=r;
+		wickets=w;
+		team_name=tn;
+	}
+	
+	public void display() {
+		
+		System.out.println("Jersey No. : "+jersey_no);
+		System.out.println("Name : "+p_name);
+		System.out.println("Runs : "+runs);
+		System.out.println("wickets : "+wickets);
+		System.out.println("Team Name : "+team_name);
+	}
+
+}

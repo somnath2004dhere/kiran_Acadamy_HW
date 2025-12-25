@@ -245,3 +245,15 @@ org.eclipse.jgit.errors.TransportException: https://github.com/somnath2004dhere/
 	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
 	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-12-25 22:02:55.358
+!MESSAGE Classpath changed for project: Constuctor_program
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-12-25 22:03:35.892
+!MESSAGE Classpath changed for project: Constructor_Program
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-12-25 22:04:03.931
+!MESSAGE Classpath changed for project: SSD
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-12-25 22:04:41.999
+!MESSAGE Classpath changed for project: SSD
