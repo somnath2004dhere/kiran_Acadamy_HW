@@ -1,6 +1,10 @@
 package pattern;
 
-public class diff1 {
+public class Diff1 {
+	
+	public Diff1() {
+		
+	}
 
 	
 public static void main(String[] args) {

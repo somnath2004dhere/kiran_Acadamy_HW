@@ -2,6 +2,9 @@ package pattern;
 
 public class Pyramid {
 	
+	public Pyramid() {
+	
+	}
 	
 	public static void reversePyramid(int n) {
 		

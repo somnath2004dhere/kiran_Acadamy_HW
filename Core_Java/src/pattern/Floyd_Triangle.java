@@ -3,9 +3,8 @@ package pattern;
 public class Floyd_Triangle {
 	
 	
-	public static void inverseNumber(int n) {
-		
-		
+	public Floyd_Triangle() {
+	
 	}
 	
 	public static void main(String[] args) {
